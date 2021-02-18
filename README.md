@@ -1,3 +1,5 @@
+# This project is deprecated, please use: https://github.com/casbin/casdoor instead.
+
 casbin-dashboard
 ====
 
